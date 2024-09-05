@@ -14,11 +14,11 @@ int main () {
     database[0].value = 200;
     database[1].name = "loonies";
     database[1].value = 100;
-    for (int i = 0; i < database.size(); i++)
+    /*for (int i = 0; i < database.size(); i++)
     {
         cout << change / database[i].value << database[i].name << endl;
         change %= database[i].value;
-    }    
+    }*/    
 
     /*
     int toonies = change / 200;
